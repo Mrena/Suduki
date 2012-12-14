@@ -1,0 +1,1 @@
+You need to run the startup.php file first for the program to run properly.
